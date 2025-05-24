@@ -1,0 +1,6 @@
+provider        = "gcp"
+id_project	= "my-project-1-431410"
+instance_name   = "gauri"
+instance_region = "us-central1"
+instance_zone   = "us-central1-a"
+name_image	= " ubuntu-os-cloud/ubuntu-2004-lts"

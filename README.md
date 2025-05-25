@@ -79,4 +79,37 @@ The script will:
 4. To destroy resources:
 
 - Re-run the script and select the destroy option when prompted.
+---
+
+## ScreenShots
+<img src="https://github.com/user-attachments/assets/e4919508-a90b-4d86-8095-746299edbb86" width="600"/>
+
+-----------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/user-attachments/assets/4135b6ac-dc83-4d70-b764-3f02e1a227a9" width="600"/>
+
+------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/user-attachments/assets/bf67bb1d-ff73-40c5-bb5e-4d24b75b6a7b" width="600"/>
+
+------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/user-attachments/assets/a13bfae5-95f2-4844-8bd2-d829d21b7420" width="600"/>
+
+------------------------------------------------------------------------------------------------------------------------
+
+## Destroying the Instance
+<img src="https://github.com/user-attachments/assets/70a9a9e6-48fc-4ae2-9a8c-9f931e647c5b" width="600"/>
+
+------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/user-attachments/assets/9459bc72-a6bd-47a7-bfb3-84a1503b7c4c" width="600"/>
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 

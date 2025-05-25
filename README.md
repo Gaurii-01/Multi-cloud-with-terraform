@@ -39,7 +39,7 @@ Ensure repeatable infrastructure deployments and clean teardowns.
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) installed
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell) on Windows
@@ -56,7 +56,7 @@ Ensure repeatable infrastructure deployments and clean teardowns.
 
    ```bash
    git clone https://github.com/Gaurii-01/Multi-cloud-with-terraform.git
-   cd mega_project
+   cd Multi-cloud-with-terraform
 
 2. Run the PowerShell script:
    ```bash

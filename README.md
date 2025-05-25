@@ -55,7 +55,7 @@ Ensure repeatable infrastructure deployments and clean teardowns.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mega_project.git
+   git clone https://github.com/Gaurii-01/Multi-cloud-with-terraform.git
    cd mega_project
 
 2. Run the PowerShell script:

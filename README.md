@@ -81,7 +81,7 @@ The script will:
 - Re-run the script and select the destroy option when prompted.
 ---
 
-## ScreenShots
+## Screenshots
 <img src="https://github.com/user-attachments/assets/e4919508-a90b-4d86-8095-746299edbb86" width="600"/>
 
 -----------------------------------------------------------------------------------------------------------------------
